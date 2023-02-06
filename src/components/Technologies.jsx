@@ -23,7 +23,6 @@ const Technologies = () => {
         <span className="bg-[#CB92B1] text-black p-2 rounded-[30px] font-bold text-xs hover:scale-110 hover:rotate-3 transition-transform">
           HTML
         </span>
-        <br />
       </div>
     </div>
   );
