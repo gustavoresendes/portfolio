@@ -7,7 +7,7 @@ function Profile() {
       <img
         src="./src/assets/profile.jpg"
         alt="profile-photo"
-        className="w-[120px] h-[120px] rounded-full border-2 border-[#00FF00]"
+        className="w-[160px] h-[160px] rounded-full border-2 border-[#00FF00]"
       />
 
       <h1 className="pt-6 pb-2">
